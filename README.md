@@ -42,7 +42,7 @@
 [colorsinspo](https://colorsinspo.com)
 
 ## Gradient Generators
-[CSSGradient](https://https://cssgradient.io/)
+[CSSGradient](https://cssgradient.io/)
 
 [background+text compare](https://colorable.jxnblk.com)
 
@@ -65,6 +65,7 @@
 [Coverr Beautiful Free Stock Video Footage](https://coverr.co)
 
 [icons8](https://icons8.com/photos/t/programming)
+
 [AI Generated Faces](https://generated.photos/faces)
 
 
