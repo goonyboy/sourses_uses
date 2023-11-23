@@ -3,14 +3,14 @@
 
 ## Fonts
 
-[Google fonts](fonts.google.com)
+[Google fonts]((https://fonts.google.com/))
 
-[Typescale](typescale.com)
+[Typescale](https://typescale.com)
 
 ## Templates
-[free-css](www.free-css.com)
+[free-css](https://www.free-css.com)
 
-[htmltemplates](htmltemplates.co)
+[htmltemplates](https://htmltemplates.co)
 
 [themewagon.com](themewagon.com)
 
