@@ -12,86 +12,84 @@
 
 [htmltemplates](https://htmltemplates.co)
 
-[themewagon.com](themewagon.com)
+[themewagon.com](https://themewagon.com)
 
 ## CSS Frameworks
 [Bootstrap](https://getbootstrap.com/)
 
 [Tailwind](https://tailwindcss.com/)
 
-[A collection of the best front end frameworks](cssframeworks.org)
+[A collection of the best front end frameworks](https://cssframeworks.org)
 
 ## Icons
-[flaticon](flaticon.com)
+[flaticon](https://flaticon.com)
 
-[iconfinder](iconfinder.com)
+[iconfinder](https://iconfinder.com)
 
-[onlinewebfonts](onlinewebfonts.com)
+[onlinewebfonts](https://onlinewebfonts.com)
 
-[icomoon](icomoon.io)
+[icomoon](https://icomoon.io)
 
-[css.gg](css.gg)
+[css.gg](https://css.gg)
 
 ## Logo Generators
-[Renderforest](renderforest.com)
+[Renderforest](https://renderforest.com)
 
-[FreeLogoDesign](freelogodesign.org)
+[FreeLogoDesign](https://freelogodesign.org)
 
 ## Color Palette
 
-[colorsinspo](colorsinspo.com)
+[colorsinspo](https://colorsinspo.com)
 
 ## Gradient Generators
-[CSSGradient](https://cssgradient.io/)
+[CSSGradient](https://https://cssgradient.io/)
 
-[background+text compare](colorable.jxnblk.com)
+[background+text compare](https://colorable.jxnblk.com)
 
 ## Shadow
 
-[Shadows Brumm](shadows.brumm.af)
+[Shadows Brumm](https://shadows.brumm.af)
 
-[box-shadow](box-shadow.dev)
+[box-shadow](https://box-shadow.dev)
 
-[HTML CSS Freebies](htmlcssfreebies.com/box-shadow-generator-multiple/)
+[HTML CSS Freebies](https://htmlcssfreebies.com/box-shadow-generator-multiple/)
 
-[Webcode Tools](webcode.tools/css-generator/drop-shadow?utm_content=cmp-true)
+[Webcode Tools](https://webcode.tools/css-generator/drop-shadow?utm_content=cmp-true)
 
 ## Photo, Video templates
 
-[Unsplash](unsplash.com)
+[Unsplash](https://unsplash.com)
 
-[freepik.com/popular-photos](freepik.com/popular-photos)
+[freepik.com/popular-photos](https://freepik.com/popular-photos)
 
-[Coverr Beautiful Free Stock Video Footage](coverr.co)
+[Coverr Beautiful Free Stock Video Footage](https://coverr.co)
 
-[icons8](icons8.com/photos/t/programming)
-[AI Generated Faces](generated.photos/faces)
+[icons8](https://icons8.com/photos/t/programming)
+[AI Generated Faces](https://generated.photos/faces)
 
 
 ## Patterns
 
-[Cool text Generator](maketext.io)
+[Cool text Generator](https://maketext.io)
 
-[ShapeDivider](shapedivider.app)
+[ShapeDivider](https://shapedivider.app)
 
-[SVGBackgrounds](svgbackgrounds.com)
+[SVGBackgrounds](https://svgbackgrounds.com)
 
-[Philip Rogers SVG](philiprogers.com/svgpatterns)
+[Philip Rogers SVG](https://philiprogers.com/svgpatterns)
 
-[Cool Backgrounds](coolbackgrounds.io)
+[Cool Backgrounds](https://coolbackgrounds.io)
 
-[haikei](haikei.app)
+[haikei](https://haikei.app)
 
 
 ## JavaSctipt helpers
 
-[Operator Lookup](joshwcomeau.com/operator-lookup/)
+[Operator Lookup](https://joshwcomeau.com/operator-lookup/)
 
-[top JavaScript utilities](phuoc.ng/collection/1-loc/)
+[top JavaScript utilities](https://phuoc.ng/collection/1-loc/)
 
 
 ## JavaScript Projects
 
-[frontendprojects](frontendprojects.netlify.app)
-[]()
-[]()
+[frontendprojects](https://frontendprojects.netlify.app)
