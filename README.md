@@ -32,7 +32,7 @@
 
 [css.gg](https://css.gg)
 
-[fontawesome](fontawesome.com)
+[fontawesome](https://fontawesome.com)
 
 ## Logo Generators
 [Renderforest](https://renderforest.com)
