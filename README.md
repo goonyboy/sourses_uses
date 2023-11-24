@@ -32,6 +32,8 @@
 
 [css.gg](https://css.gg)
 
+[fontawesome](fontawesome.com)
+
 ## Logo Generators
 [Renderforest](https://renderforest.com)
 
