@@ -99,4 +99,4 @@
 
 ## Frontend manual
 
-[w3schools]([w3schools.com](https://www.w3schools.com)https://www.w3schools.com)
+[w3schools](https://www.w3schools.com/css/default.asp)
