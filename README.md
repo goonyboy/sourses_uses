@@ -86,7 +86,7 @@
 [haikei](https://haikei.app)
 
 
-## JavaSctipt helpers
+## JavaScript helpers
 
 [Operator Lookup](https://joshwcomeau.com/operator-lookup/)
 
