@@ -96,3 +96,7 @@
 ## JavaScript Projects
 
 [frontendprojects](https://frontendprojects.netlify.app)
+
+## Frontend manual
+
+[w3schools]([w3schools.com](https://www.w3schools.com)https://www.w3schools.com)
