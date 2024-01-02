@@ -102,3 +102,7 @@
 ## Frontend manual
 
 [w3schools](https://www.w3schools.com/css/default.asp)
+
+## HTML CSS helpers
+
+[html.spec](https://html.spec.whatwg.org/multipage/named-characters.html)
